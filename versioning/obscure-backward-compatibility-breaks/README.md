@@ -78,7 +78,7 @@ extension points, e.g. by [declaring classes final by default - a controversial 
 
 ---
 
-Do you know other obscure BC breaks? Please, let me know at [+MalteWunsch](https://www.xing.com/profile/Malte_Wunsch) or
+Do you know other obscure BC breaks? Please, let me know at [+MalteWunsch](https://plus.google.com/+MalteWunsch/) or
 [@MalteWunsch](https://twitter.com/MalteWunsch).
 
 [Imprint](../../imprint.md)

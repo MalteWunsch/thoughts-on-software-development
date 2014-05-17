@@ -31,7 +31,7 @@ About me
 My name is Malte Wunsch and as you may have already noticed, I'm no native English speaker. I'm living in Bonn, Germany,
 and work as a software developer at a wonderful internet agency called [webfactory](http://www.webfactory.de).
 
-You can contact me at [+MalteWunsch](https://www.xing.com/profile/Malte_Wunsch),
+You can contact me at [+MalteWunsch](https://plus.google.com/+MalteWunsch/),
 [at Xing](https://www.xing.com/profile/Malte_Wunsch) and if you're lucky, you might even catch me
 [@MalteWunsch](https://twitter.com/MalteWunsch).
 
