@@ -8,4 +8,9 @@ class MyController
     public function myFirstAction($requestParams) {
         // ...
     }
+
+    /** @Route("/second/") */
+    public function mySecondAction($requestParams) {
+        // ...
+    }
 }
