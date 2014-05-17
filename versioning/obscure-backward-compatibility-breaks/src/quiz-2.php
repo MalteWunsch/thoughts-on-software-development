@@ -2,7 +2,7 @@
 
 class TwitterController
 {
-    public function lastTweetsAction($age = null)
+    public function lastTweetsAction($maxCacheAgeInSeconds = null)
     {
         // ...
     }
