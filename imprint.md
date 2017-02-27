@@ -3,8 +3,8 @@ Imprint
 
 ```
 Malte Wunsch
-Mirecourtstraße 15
-53225 Bonn
+Fröbelstraße 1b
+53842 Troisdorf
 
 Email: malte.wunsch@gmail.com
 ```
